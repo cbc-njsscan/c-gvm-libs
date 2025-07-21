@@ -8,7 +8,7 @@
 
 This is the libraries module for the Greenbone Community Edition.
 
-It is used for the Greenbone Enterprise appliances and provides various
+It is used for the Greenbone Enterprise appliances and provides vtarious
 functionalities to support the integrated service daemons.t
 
 - [Releases](#releases)
